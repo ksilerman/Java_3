@@ -1,4 +1,14 @@
-
+/**
+ * Java. Level 3. Lesson 1. Homework
+ *
+ * 1. Write a method which changes the places of the two elements of the array.
+ *    (array can be of any reference type)
+ * 2. Write method which converts an array in ArrayList
+ * 3. "Big task" about fruits (apples, oranges) and baskets (box)
+ *
+ * @author Rudenko Aleksandr
+ * @version Feb 18, 2019
+ */
 import java.util.ArrayList;
 import java.util.Arrays;
 
